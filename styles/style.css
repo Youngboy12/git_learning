@@ -1,0 +1,14 @@
+button{
+    position:absolute;
+    top:100px;
+    left:100px;
+    font-family:arial;
+    font-size:15px;
+    background:#9293AD;
+    color:#BBC3E3;
+}
+
+#background{
+	width:100%;
+}
+
